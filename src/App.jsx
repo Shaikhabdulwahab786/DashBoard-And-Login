@@ -13,9 +13,9 @@ function App() {
   return (
     <div className="App">
       
-      <Nvabar />
-      <Dashboard/>
-      <Slider/>
+      {/* <Nvabar /> */}
+      {/* <Dashboard/> */}
+      {/* <Slider/> */}
       <Login/>
       
     </div>
